@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Artem B.
+- 👋 Hi, I’m Artem B. (Oracle DB Developer).
 - 👀 I’m interested in developing the application architecture, finding optimal ways of storing data 💾 in an Oracle database, 
-optimizing SQL queries ⏱, functions and procedures, developing web applications (PHP, JavaScript), solving interesting tasks.
+optimizing SQL queries ⏱, PL/SQL functions and procedures, developing web applications (PHP, JavaScript), solving interesting tasks.
 - 🌱 I’m currently learning NodeJS.
 - 📫 How to reach me artembrdngit@gmail.com.
 
